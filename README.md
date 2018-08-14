@@ -1,2 +1,0 @@
-# Latihan-R-
-bab1
